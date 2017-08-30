@@ -1,3 +1,7 @@
+
+http://docs.easemob.com/im/400webimintegration/10webimintro
+
+
 ## 环信 WebIM sdk
 
 测试环信WebIM请访问：https://webim.easemob.com
